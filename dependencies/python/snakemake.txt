@@ -25,7 +25,7 @@ pyrsistent==0.19.3
 PyYAML==6.0.1
 requests==2.31.0
 reretry==0.11.8
-smart-open==6.3.0
+smart-open==6.4.0
 smmap==5.0.0
 snakemake==7.30.1
 stopit==1.1.2
